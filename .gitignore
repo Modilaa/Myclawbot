@@ -1,0 +1,22 @@
+# Secrets & local runtime
+.env
+*.env
+*.pid
+*.log
+*.db
+*.sqlite
+api_keys.json
+email_state.json
+memory/
+.openclaw/
+__pycache__/
+
+# Keep only public bot artifacts in this repo
+*
+!README.md
+!.gitignore
+!vinted_deals_bot/
+!vinted_deals_bot/bot.py
+!vinted_deals_bot/requirements.txt
+!vinted_deals_bot/.env.example
+!MY_ERRORS.md
