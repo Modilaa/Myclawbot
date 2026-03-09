@@ -20,3 +20,5 @@ __pycache__/
 !vinted_deals_bot/requirements.txt
 !vinted_deals_bot/.env.example
 !MY_ERRORS.md
+!content_factory_2026/
+!content_factory_2026/**

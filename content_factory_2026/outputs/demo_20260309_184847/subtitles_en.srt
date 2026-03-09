@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hook: Tu veux plus de clients en 2026 ? Voici 3 erreurs fatales.
+
+2
+00:00:03,000 --> 00:00:06,000
+Sujet: 3 hooks qui convertissent pour PME locales.
+
+3
+00:00:06,000 --> 00:00:09,000
+Erreur 1: publier sans hook concret.
+
+4
+00:00:09,000 --> 00:00:12,000
+Erreur 2: vidéos trop longues sans sous-titres.
+
+5
+00:00:12,000 --> 00:00:15,000
+Erreur 3: aucun call-to-action clair.
+
+6
+00:00:15,000 --> 00:00:18,000
+CTA: Commente START pour recevoir le plan complet.

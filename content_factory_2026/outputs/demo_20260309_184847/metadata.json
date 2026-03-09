@@ -1,0 +1,10 @@
+{
+  "created_at": "2026-03-09T18:48:47.649912",
+  "topic": "3 hooks qui convertissent pour PME locales",
+  "artifacts": [
+    "script.txt",
+    "subtitles_en.srt",
+    "subtitles_fr.srt"
+  ],
+  "note": "Demo offline sans API. Utiliser MoneyPrinterPlus/Whisper pour production réelle."
+}
